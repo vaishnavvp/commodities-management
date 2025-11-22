@@ -6,7 +6,7 @@ import { BarChartCard } from "../components/dashboard/BarChartCard";
 import { LineChartCard } from "../components/dashboard/LineChartCard";
 import { RecentSalesList } from "../components/dashboard/RecentStockList";
 import { PaymentHistoryTable } from "../components/dashboard/PaymentHistoryTable";
-import { earningOverviewData, lineChartData, miniEarningData, overviewData, paymentHistory, paymentHistoryMock, recentSales, subscriptionsData, subscriptionsPerformerData, subsPerformerData, topSalesMock, topSalesProducts, topSalesRows, weeklyEarningData, type Product } from "../data/mockProducts";
+import { earningOverviewData, lineChartData, miniEarningData, overviewData, paymentHistory, recentSales, subscriptionsData, subscriptionsPerformerData, topSalesRows, weeklyEarningData, type Product } from "../data/mockProducts";
 import { EarningLineChartCard } from "../components/dashboard/EarningLineChartCard";
 import { MiniEarningBarCard } from "../components/dashboard/MiniEarningBarCard";
 import { WeeklyEarningBarCard } from "../components/dashboard/WeeklyEarningBarCard";
